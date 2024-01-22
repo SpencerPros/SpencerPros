@@ -1,7 +1,7 @@
 <h1>Hi, I'm Spencer! <br/><a >Cybersecurity Professional</a>, Programmer</a> <a href=></a></h1>
 
 
-<h2> Cybersecurity:</h2>
+<h2> Cybersecurity Skills:</h2>
 
 - <b>Encryption/Decryption<b>
 - <b>SHA-256 (Hashing)<b>
