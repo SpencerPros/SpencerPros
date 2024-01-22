@@ -1,4 +1,24 @@
-<h1>Hi, I'm Spencer! <br/><a >Cybersecurity Professional</a>, Programmer</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<h1>Hi, I'm Spencer! <br/><a >Cybersecurity Professional</a>, Programmer</a> <a href=></a></h1>
+
+
+<h2> Cybersecurity:</h2>
+
+- <b>Encryption/Decryption<b>
+- <b>SHA-256 (Hashing)<b>
+- <b>Network Security<b>
+- <b>Security Auditing<b>
+
+
+
+
+
+
+<h2> Programming Languages:</h2>
+
+- <b>Python<b>
+- <b>Javascript (Currently Working on)<b>
+
+
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
