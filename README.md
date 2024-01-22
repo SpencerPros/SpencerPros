@@ -3,6 +3,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Currently Working in TryHackMe.com for Red Team Exercises<b>
+
 
 
 - <b>Python</b>
@@ -22,9 +24,9 @@
 
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-
+
 - 🌱 I’m currently learning: Javascript/Java      
 - 📫 How to reach me: Email is best 
 - ⚡ Fun fact: I can play 3 Intstruments Upright Bass, Bass Guitar, Cello
