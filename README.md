@@ -48,6 +48,6 @@
 -
 
 - 🌱 I’m currently learning: Javascript/Java      
-- 📫 How to best reach me: Email 
+- 📫 How to best reach me: Email or Text Message
 - ⚡ Fun fact: I can play 3 Intstruments Upright Bass, Bass Guitar, Cello
 
