@@ -16,7 +16,7 @@
 <h2> Programming Languages:</h2>
 
 - <b>Python<b>
-- <b>Javascript (Currently Working on)<b>
+
 
 
 
