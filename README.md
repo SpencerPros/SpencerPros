@@ -39,7 +39,7 @@
 
 
 
-[instagram]: https://www.instagram.com/spencer.spoons/
+[instagram]: https://www.instagram.com/spencer.prosniewski/
 [linkedin]: https://www.linkedin.com/in/spencer-prosniewski-009362227/
 
 
