@@ -23,8 +23,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Multi-Area OSPF<b>
 - <b>Currently Working in TryHackMe.com for SOC Anylyst Level 1 and 2 Courses<b>
-- <b>Currently Working on Multi-Area OSPF Project<b>
 
 
 
