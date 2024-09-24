@@ -48,7 +48,7 @@
 
 -
 
-- 🌱 I’m currently learning: Javascript/Java      
+- 🌱 I’m currently learning: Java     
 - 📫 How to best reach me: Email or Text Message
 - ⚡ Fun fact: I can play 3 Intstruments Upright Bass, Bass Guitar, Cello
 
