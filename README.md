@@ -3,8 +3,6 @@
 
 <h2> Cybersecurity Skills:</h2>
 
-- <b>Encryption/Decryption<b>
-- <b>SHA-256 (Hashing)<b>
 - <b>Network Security<b>
 - <b>Security Auditing<b>
 
