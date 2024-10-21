@@ -25,6 +25,7 @@
 
 - <b>Multi-Area OSPF Project<b>
 - <b>Currently Working in TryHackMe.com for SOC Anylyst Level 1 and 2 Courses<b>
+- <b>Currently Working on an IT-Audit-Project<b>
 
 
 
